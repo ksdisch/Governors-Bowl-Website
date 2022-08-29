@@ -33,7 +33,7 @@ function buildCharts() {
         plotly.newPlot("wins", winsBarData, winsBarLayout);
 
     });
-}
+};
 
-
+buildCharts();
 
